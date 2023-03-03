@@ -1,1 +1,3 @@
-ini adalah file proker
+Proker :
+1. Code League
+2. Ngoding
